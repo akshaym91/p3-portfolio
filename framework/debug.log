@@ -1,0 +1,2 @@
+[1217/150911:ERROR:file_io.cc(30)] read: expected 4, observed 0
+[0128/172131.728:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
