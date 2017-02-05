@@ -31,3 +31,22 @@ h4 {
     width: 100px;
     height: 100px;
 }
+
+
+/* Customization of links */
+
+.clickable-link:link {
+    text-decoration: none;
+}
+
+.clickable-link:visited {
+    text-decoration: none;
+}
+
+.clickable-link:hover {
+    text-decoration: underline;
+}
+
+.clickable-link:active {
+    text-decoration: underline;
+}
